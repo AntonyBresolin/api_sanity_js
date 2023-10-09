@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'centro_de_linguas',
 
-  projectId: 'p66zbn26',
+  projectId: '660q5f5r',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
