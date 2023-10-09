@@ -23,6 +23,6 @@ export default {
         name: 'descricao',
         type: 'string',
         title: 'Descricao',
-    },
-  ],
+    }
+  ]
 }
