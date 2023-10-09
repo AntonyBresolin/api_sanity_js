@@ -10,17 +10,17 @@ export default {
       title: 'Nome',
     },
     {
-      nota: 'nota',
+      name: 'nota',
       type: 'string',
       title: 'Nota',
     },
     {
-        insta: 'insta',
+        name: 'insta',
         type: 'string',
         title: 'Perfil Instagram',
     },
     {
-        descricao: 'descricao',
+        name: 'descricao',
         type: 'string',
         title: 'Descricao',
     },

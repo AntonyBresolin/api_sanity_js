@@ -10,12 +10,12 @@ export default {
       title: 'Nome',
     },
     {
-      imagem: 'imagem',
+      name: 'imagem',
       type: 'image',
       title: 'Imagem',
     },
     {
-      disciplina: 'disciplina',
+      name: 'disciplina',
       type: 'string',
       title: 'Disciplina',
     },

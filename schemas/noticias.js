@@ -10,7 +10,7 @@ export default {
         title: 'Imagem da noticia',
       },
       {
-        link: 'link',
+        name: 'link',
         type: 'string',
         title: 'Link da noticia',
       },
