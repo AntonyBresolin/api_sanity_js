@@ -1,8 +1,8 @@
 // schemas/perguntas-frequentes.js
 export default {
-    name: 'pergunta_frequentes',
+    name: 'pergunta_frequente',
     type: 'document',
-    title: 'Pergunta Frequentes',
+    title: 'Perguntas Frequentes',
     fields: [
       {
         name: 'pergunta',
