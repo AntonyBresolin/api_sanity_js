@@ -15,14 +15,14 @@ export default {
       title: 'Nota',
     },
     {
-        name: 'insta',
+        name: 'curso',
         type: 'string',
-        title: 'Perfil Instagram',
+        title: 'Curso Realizado',
     },
     {
-      name: 'image',
+      name: 'imagem',
       type: 'image',
-      title: 'Imagem Instagram',
+      title: 'Imagem da pessoa',
     },
     {
         name: 'descricao',
