@@ -20,6 +20,11 @@ export default {
         title: 'Perfil Instagram',
     },
     {
+      name: 'image',
+      type: 'image',
+      title: 'Imagem Instagram',
+    },
+    {
         name: 'descricao',
         type: 'string',
         title: 'Descricao',
