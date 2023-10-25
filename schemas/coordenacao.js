@@ -10,6 +10,17 @@ export default {
         title: 'Nome',
       },
       {
+        name: 'genero',
+        type: 'string',
+        title: 'Gênero',
+        options: {
+          list: [
+            { title: 'Masculino', value: 'masculino' },
+            { title: 'Feminino', value: 'feminino' },
+          ],
+        },
+      },
+      {
         name: 'imagem',
         type: 'image',
         title: "Imagem",
