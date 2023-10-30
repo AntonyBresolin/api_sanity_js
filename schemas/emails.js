@@ -1,6 +1,6 @@
 // schemas/coordenacao.js
 export default {
-    name: 'Emails',
+    name: 'emails',
     type: 'document',
     title: 'Emails',
     fields: [
